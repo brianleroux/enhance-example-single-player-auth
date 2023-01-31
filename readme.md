@@ -1,3 +1,13 @@
+# try it out!
+
+clone this repo, and create a `.env` file in the project root like this:
+
+```.env'
+SECRET_PASSWORD=mypassword
+```
+
+run `npm i` to install deps and `npm start` to start the local dev server.
+
 # project structure
 
 ### `app/pages/index.html`
